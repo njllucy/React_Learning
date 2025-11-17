@@ -1,0 +1,18 @@
+.card{
+    width: 200px;
+    background-color: lightgreen;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border:2px solid rgb(94, 54, 240);
+    overflow: hidden;
+}
+img{
+    border-radius: 10px;
+    width:200px;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color:rgb(5, 83, 47)
+}
