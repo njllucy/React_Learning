@@ -1,0 +1,15 @@
+@import "tailwindcss";
+.card{
+  border: 2px solid black;
+  max-width: 23vw;
+  margin-top: 20px;
+  background-color:rgb(189, 247, 247);
+  font-weight: 600;
+}
+
+.container{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}

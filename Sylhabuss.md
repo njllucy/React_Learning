@@ -1,0 +1,65 @@
+### **Syllabus**
+
+- **Introduction to React**
+    - **Why React?**
+    - **React vs. Vanilla JS vs. Other Frameworks.**
+- **JSX (JavaScript XML)**
+    - **Embedding Expressions in JSX.**
+    - **JSX Rules & Differences from HTML.**
+    - **JSX with JavaScript Functions.**
+- **Rendering Elements**
+    - **ReactDOM.createRoot() vs. ReactDOM.render().**
+- **Components:**
+    - **Functional Components (modern approach).**
+    - **Class Components (legacy but important).**
+- **Props (Properties):**
+    - **Passing Data to Components.**
+    - **Props in Functional vs. Class Components.**
+    - **Default Props & PropTypes (for type checking).**
+- **React Fragments:**
+    - **Why Use <React.Fragment> Instead of <div>?**
+- **State in React**
+    - **useState() Hook.**
+    - **Updating & Managing State.**
+    - **State in Class Components (this.state, setState).**
+- **Event Handling**
+    - **Handling Click, Change, Submit Events.**
+    - **Synthetic Events in React.**
+    - **Binding Event Handlers in Class Components (.bind(this), Arrow Functions).**
+- **Rendering Lists**
+    - **Using .map() in JSX.**
+    - **Keys in Lists (Why Are They Important?).**
+- **Conditional Rendering**
+    - **if/else, &&, ? : Operators.**
+    - **Short-Circuiting (&& for Conditional UI).**
+    - **Using Ternary Operators for UI Logic.**
+- **React Hooks (Functional Components Lifecycle Management)**
+    - **useState(), useEffect(), useRef(), useReducer().**
+    - **Introduction to Custom Hooks.**
+- **Forms & Controlled Components**
+    - **Handling Form Inputs in React.**
+    - **useState for Controlled Components.**
+    - **Uncontrolled Components (Refs).**
+    - **Preventing Default Behavior.**
+- **API Calls in React (Fetching Data)**
+    - **Fetch API vs. Axios (Advantages & Usage).**
+    - **Handling API Calls with useEffect().**
+    - **Handling Errors Gracefully (try...catch).**
+- **React Router (Navigation & Routing)**
+    - **Setting Up React Router (react-router-dom).**
+    - **Navigating with <Link> and <NavLink>.**
+    - **Route Parameters & Dynamic Routes.**
+    - **Protected Routes (Auth-Based Navigation).**
+- **Error Boundaries (Class Component Only)**
+    - **Catching Errors in UI Components.**
+    - **How to Implement an Error Boundary.**
+- **Prop Drilling & Context API**
+    - **What is Prop Drilling ?**
+    - **Why Prop Drilling Can Be a Problem.**
+    - **Using Context API for Global State.**
+- **Performance Optimization in React**
+    - **useMemo() for Caching Computations.**
+    - **useCallback() for Memoizing Functions.**
+    - **Lazy Loading & Code Splitting (React.lazy(), Suspense).**
+- **Basic Styling in React**
+    - **Inline Styles vs. CSS Modules vs. Styled Components.**
