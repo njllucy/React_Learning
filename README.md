@@ -10,7 +10,7 @@
 <img width="1916" height="813" alt="Screenshot 2025-11-17 235607" src="https://github.com/user-attachments/assets/92ac218f-5986-4e23-a92f-ac5e5b710046" />
 <img width="1919" height="819" alt="Screenshot 2025-11-17 235617" src="https://github.com/user-attachments/assets/fb75baaf-352a-449e-95f2-c2143656d155" />
 
-# Output of Practicing oseEffect() Hook
+# Output of Practicing useEffect() Hook
 <img width="1279" height="511" alt="Screenshot 2025-11-27 125559" src="https://github.com/user-attachments/assets/2af80084-e1c8-4f81-bda9-8716a579e80b" />
 
 # Output of Digital clock using useState() & useEffect() Hook
