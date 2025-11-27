@@ -1,0 +1,26 @@
+body{
+  background-image: url("./assets/bg2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  margin:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clock-container{
+  backdrop-filter: blur(2px);
+  width: 100vw;
+  padding: 10px 0;
+}
+
+.clock{
+  color: white;
+  font-size: 6rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 3px 3px 5px hsla(0, 0%, 0%, 0.75);
+}
