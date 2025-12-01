@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+  width: full;
+  display: flex;
+  gap: 20px;
+  background-color: black;
+  padding: 20px;
+}
+nav li{
+  color: white;
+  list-style: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+.red{
+  background-color: red ;
+  color: white;
+}
