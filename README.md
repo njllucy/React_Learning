@@ -24,3 +24,8 @@
 # Output of Practicing useContext() Hook
 
 <img width="764" height="707" alt="Screenshot 2025-11-27 183759" src="https://github.com/user-attachments/assets/46d9d6fd-510b-440f-9a91-cf93e9bd204c" />
+
+# Sample output of Routing
+
+<img width="1919" height="829" alt="Screenshot 2025-12-10 120602" src="https://github.com/user-attachments/assets/a63a9133-3c2f-4dae-9e1d-78c31d3d549d" />
+
